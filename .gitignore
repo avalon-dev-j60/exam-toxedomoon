@@ -21,26 +21,3 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
-/build/
-/WebClient/nbproject/private/
-/WebClient/build/
-/customerapplication-master/src/main/nbproject/private/
-/WebEnterpriseApplication/nbproject/private/
-/WebEnterpriseApplication/WebEnterpriseApplication-war/nbproject/private/
-/WebEnterpriseApplication/WebEnterpriseApplication-ejb/nbproject/private/
-/WebEnterpriseApplication/WebEnterpriseApplication-ejb/build/
-/WebEnterpriseApplication/WebEnterpriseApplication-war/build/
-/WebEnterpriseApplication/build/
-/WebEnterpriseApplication/WebEnterpriseApplication-ejb/dist/
-/WebEnterpriseApplication/WebEnterpriseApplication-war/dist/
-/WebEnterpriseApplication/dist/
-/NewsAppEE6/nbproject/private/
-/NewsAppEE6/NewsApp-war/nbproject/private/
-/WEApp/nbproject/private/
-/WEApp/WEApp-war/nbproject/private/
-/WEApp/WEApp-ejb/nbproject/private/
-/WEApp/WEApp-ejb/build/
-/WEApp/WEApp-war/build/
-/WEApp/build/
-/WEApp/WEApp-ejb/dist/
-/WEApp/WEApp-war/dist/
